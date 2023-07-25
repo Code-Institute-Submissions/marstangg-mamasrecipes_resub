@@ -8,7 +8,7 @@ awscli==1.17.10
 binaryornot==0.4.4
 boto3==1.10.41
 botocore==1.13.41
-certifi==2019.11.28
+certifi==2023.7.22
 chardet==3.0.4
 chevron==0.13.1
 click==7.1.2
